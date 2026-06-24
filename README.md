@@ -216,8 +216,18 @@ Full recommendation details, segment-level insights, risks, and next steps are i
 
 ## Screenshots Included
 
-| File | Contents |
-| --- | --- |
-| `screenshots/summary_metrics.png` | Experiment summary metrics comparison |
-| `screenshots/hypothesis_test_output.png` | Hypothesis test inputs, z-statistic, and p-value output |
-| `screenshots/kpi_tree_preview.png` | KPI tree preview |
+The required screenshots are included below.
+
+### Control vs Treatment summary table
+
+![Control vs Treatment summary](screenshots/summary_metrics.png	)
+
+### Test output or calculation evidence
+
+![Test output or calculation evidence](screenshots/hypothesis_test_output.png)
+
+### KPI tree image
+
+![KPI tree](screenshots/kpi_tree_preview.png)
+
+
